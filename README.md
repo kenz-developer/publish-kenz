@@ -11,7 +11,7 @@ Yo, bro! Ini dia **Github Tools Yosh**, project kece buat nge-upload sesuatu ke 
 
 1. **Clone repo dulu, coy!**
    ```sh
-   git clone https://github.com/YoshCasaster/Github-uploader-yosh.git
+   git clone https://github.com/YoshCasaster/Github-Tools
    ```
 
 2. **Masuk ke folder project**
