@@ -3,11 +3,11 @@ import { Upload, Image as ImageIcon, Loader2, Copy, Check, X } from 'lucide-reac
 import { Octokit } from '@octokit/core';
 
 const octokit = new Octokit({
-  auth: 'Token Github Lu'
+  auth: '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'
 });
 
-const OWNER = 'Username Github Lu';
-const REPO = 'Nama Repo Lu';
+const OWNER = 'kenz-developer';
+const REPO = 'publish-kenz';
 
 export default function ImageHosting() {
   const [selectedImage, setSelectedImage] = useState<File | null>(null);
