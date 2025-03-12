@@ -99,7 +99,7 @@ export default function App() {
             <div className="flex items-center space-x-2">
               <Github className="h-5 w-5 text-gray-600" />
               <a
-                href="https://github.com/YoshCasaster"
+                href="https://github.com/kenz-publish"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm sm:text-base text-gray-600 hover:text-indigo-600 transition-colors duration-200"
